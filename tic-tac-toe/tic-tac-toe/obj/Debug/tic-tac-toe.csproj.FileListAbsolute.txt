@@ -1,0 +1,10 @@
+D:\Users\luizm\Documents\CSHARP\Projetos\tic-tac-toe\tic-tac-toe\bin\Debug\tic-tac-toe.exe.config
+D:\Users\luizm\Documents\CSHARP\Projetos\tic-tac-toe\tic-tac-toe\bin\Debug\tic-tac-toe.exe
+D:\Users\luizm\Documents\CSHARP\Projetos\tic-tac-toe\tic-tac-toe\bin\Debug\tic-tac-toe.pdb
+D:\Users\luizm\Documents\CSHARP\Projetos\tic-tac-toe\tic-tac-toe\obj\Debug\tic-tac-toe.csproj.AssemblyReference.cache
+D:\Users\luizm\Documents\CSHARP\Projetos\tic-tac-toe\tic-tac-toe\obj\Debug\tic_tac_toe.frmPrincipal.resources
+D:\Users\luizm\Documents\CSHARP\Projetos\tic-tac-toe\tic-tac-toe\obj\Debug\tic_tac_toe.Properties.Resources.resources
+D:\Users\luizm\Documents\CSHARP\Projetos\tic-tac-toe\tic-tac-toe\obj\Debug\tic-tac-toe.csproj.GenerateResource.cache
+D:\Users\luizm\Documents\CSHARP\Projetos\tic-tac-toe\tic-tac-toe\obj\Debug\tic-tac-toe.csproj.CoreCompileInputs.cache
+D:\Users\luizm\Documents\CSHARP\Projetos\tic-tac-toe\tic-tac-toe\obj\Debug\tic-tac-toe.exe
+D:\Users\luizm\Documents\CSHARP\Projetos\tic-tac-toe\tic-tac-toe\obj\Debug\tic-tac-toe.pdb

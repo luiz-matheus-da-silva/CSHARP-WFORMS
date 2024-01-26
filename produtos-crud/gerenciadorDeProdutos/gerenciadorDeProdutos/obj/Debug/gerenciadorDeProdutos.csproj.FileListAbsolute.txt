@@ -1,0 +1,10 @@
+D:\Users\luizm\Documents\CSHARP\Projetos\produtos-crud\gerenciadorDeProdutos\gerenciadorDeProdutos\bin\Debug\gerenciadorDeProdutos.exe.config
+D:\Users\luizm\Documents\CSHARP\Projetos\produtos-crud\gerenciadorDeProdutos\gerenciadorDeProdutos\bin\Debug\gerenciadorDeProdutos.exe
+D:\Users\luizm\Documents\CSHARP\Projetos\produtos-crud\gerenciadorDeProdutos\gerenciadorDeProdutos\bin\Debug\gerenciadorDeProdutos.pdb
+D:\Users\luizm\Documents\CSHARP\Projetos\produtos-crud\gerenciadorDeProdutos\gerenciadorDeProdutos\obj\Debug\gerenciadorDeProdutos.csproj.AssemblyReference.cache
+D:\Users\luizm\Documents\CSHARP\Projetos\produtos-crud\gerenciadorDeProdutos\gerenciadorDeProdutos\obj\Debug\gerenciadorDeProdutos.frmCadastroProdutos.resources
+D:\Users\luizm\Documents\CSHARP\Projetos\produtos-crud\gerenciadorDeProdutos\gerenciadorDeProdutos\obj\Debug\gerenciadorDeProdutos.Properties.Resources.resources
+D:\Users\luizm\Documents\CSHARP\Projetos\produtos-crud\gerenciadorDeProdutos\gerenciadorDeProdutos\obj\Debug\gerenciadorDeProdutos.csproj.GenerateResource.cache
+D:\Users\luizm\Documents\CSHARP\Projetos\produtos-crud\gerenciadorDeProdutos\gerenciadorDeProdutos\obj\Debug\gerenciadorDeProdutos.csproj.CoreCompileInputs.cache
+D:\Users\luizm\Documents\CSHARP\Projetos\produtos-crud\gerenciadorDeProdutos\gerenciadorDeProdutos\obj\Debug\gerenciadorDeProdutos.exe
+D:\Users\luizm\Documents\CSHARP\Projetos\produtos-crud\gerenciadorDeProdutos\gerenciadorDeProdutos\obj\Debug\gerenciadorDeProdutos.pdb
